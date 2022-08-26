@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/47668244/186897060-8f177135-84d8-4391-8c94-f44913bc280c.png)
+![image](https://user-images.githubusercontent.com/47668244/186897219-327d3781-4fea-4c46-a99c-31ce46ae4877.png)
 
 # High Availability & Scalability with AWS
 
