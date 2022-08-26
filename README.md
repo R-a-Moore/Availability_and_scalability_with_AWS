@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/47668244/186897060-8f177135-84d8-4391-8c94-f44913bc280c.png)
+
 # High Availability & Scalability with AWS
 
 This repository seeks to explain the ways of ensuring high availability and scalability for cloud instances; 
